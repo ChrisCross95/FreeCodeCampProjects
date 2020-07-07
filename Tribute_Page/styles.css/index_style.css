@@ -1,0 +1,39 @@
+
+
+body {
+  text-align: center;
+  background-color: #d6efc7;
+  color: #184d47;
+}
+
+/* title section  */
+.title {
+  padding-top: 60px;
+  color: #d7385e;
+}
+
+.img_div {
+  margin: 0 10%;
+  padding: 5%;
+}
+
+.image {
+  margin: auto;
+  width: 50%;
+  height: 50%;
+}
+
+/* tribute section  */
+.tribute_info {
+  margin: auto;
+  width: 40%;
+}
+
+.tribute_paragraph {
+    color: #184d47;
+    text-align: justify;
+    line-height: 2;
+    margin-left: auto;
+    margin-right: auto;
+    width: 524px;   
+}
